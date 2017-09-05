@@ -17,7 +17,7 @@ SOLUTION
 
 - The system selects the Local Retailers that are in close proximity to the delivery destination given by the customer.
 
-- The algorithm designed to serve  this purpose uses Have sine formula to calculate distance from latitude & longitude of the delivery destination and all the local Retailers. 
+- The algorithm designed to serve  this purpose uses Haversine formula to calculate distance from latitude & longitude of the delivery destination and all the local Retailers. 
 
 - The algorithm calculates the longitude & latitude based on their Pin Codes.
 
